@@ -43,7 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="15dp"
-                android:text="@string/player1"
+                android:text="@string/mushfiq"
                 android:textSize="20sp" />
         </LinearLayout>
 
