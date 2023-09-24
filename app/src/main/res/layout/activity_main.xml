@@ -17,12 +17,5 @@
 
     </androidx.recyclerview.widget.RecyclerView>
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/player2Recycle"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:listitem="@layout/player2_item">
-
-    </androidx.recyclerview.widget.RecyclerView>
 
 </LinearLayout>
